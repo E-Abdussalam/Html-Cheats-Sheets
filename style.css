@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dcdcdc;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+h2 {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+table {
+    width: 650px;
+    margin: 0 auto;
+    border: 2px solid #9932cc;
+}
+
+th {
+    background-color: Plum;
+}
+
+td {
+    border-top: 1px solid #9932cc;
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.tag {
+    background-color: #f5f5dc;
+    font-family: monospace;
+}
